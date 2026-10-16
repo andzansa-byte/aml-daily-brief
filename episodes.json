@@ -27,5 +27,15 @@
   "file": "aml-deep-dive-2026-10-16-finanspolisen-en-v2.mp3",
   "bytes": 14644556,
   "duration": 1220
+ },
+ {
+  "title": "Padziļināti (LV): Naudas atmazgāšana rūpnieciskā apmērā – Zviedrijas Finanšu policijas ziņojums",
+  "date": "2026-10-16",
+  "summary": "Padziļināts apskats latviešu valodā par Zviedrijas Finanšu policijas 2026. gada oktobra ziņojumu: 2,9 miljardi kronu aizdomīgu darījumu, čaulas uzņēmumi un fiktīvi rēķini, salmu vīri, plūsmas uz Lietuvu (Paysera, Revolut), kāpēc banku pasākumi nav pietiekami un sarkanie karogi darījumu uzraudzībai.",
+  "description_html": "<p><b>Padziļināti, latviešu valodā.</b> Zviedrijas Finanšu policijas (Finanspolisen) ziņojums <i>Penningtvätt i industriell skala</i> (2026. gada oktobris) par krievvalodīgās organizētās noziedzības sistemātisko naudas atmazgāšanu Zviedrijā.</p><p><b>Galvenie skaitļi</b><br>• 2,9 miljardi kronu aizdomīgu darījumu, vairāk nekā 3000 personu un uzņēmumu<br>• ~1700 personu: katrs piektais – izmantota identitāte; Latvija starp biežākajām saistītajām valstīm<br>• 75% plūsmu Zviedrijā; ārzemēs galvenokārt Lietuva (Paysera, Revolut), Polija, Īrija, Lielbritānija<br>• ~200 miljoni kronu caur auto darījumiem<br>• Operācija: 1000+ slēgti konti, ~200 atteikti klienti, 50+ miljoni kronu iesaldēti</p><p><b>Epizodē</b>: shēmas uzbūve (klientuzņēmums → čaulas uzņēmumi → nauda atpakaļ), cilvēki un salmu vīri, skaidrā nauda, auto, starptautiskās plūsmas, administratīvie palīgi, saiknes ar citu noziedzību, banku vājās vietas un ieteikumi, sarkanie karogi alertu izskatīšanai.</p><p><b>Oriģinālais ziņojums (zviedru val., PDF):</b> <a href='https://polisen.se/b61e1611663908094f45e48dba35fb32/siteassets/dokument/finanspolisen/fipo-informerar/finanspolisen-informerar-den-ryska-organiserade-brottslighetens-systematiska-penningtvatt-fortgar.pdf'>Finanspolisen informerar – Penningtvätt i industriell skala</a></p><p><i>Mākslīgā intelekta veidots audio kopsavilkums (teksts: Gemini, pārbaudīts pret oriģinālu; balsis: Gemini). Faktus pārbaudiet oriģinālā.</i></p>",
+  "image": "deepdive-finanspolisen-lv.jpg",
+  "file": "aml-deep-dive-2026-10-16-finanspolisen-lv-v2.mp3",
+  "bytes": 17032940,
+  "duration": 1419
  }
 ]
