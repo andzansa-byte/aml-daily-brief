@@ -1,14 +1,5 @@
 [
  {
-  "title": "16 Oct 2026: SEB's $33m NYDFS fine, chips to Russia via Hong Kong, Estonia's cash-crypto service",
-  "date": "2026-10-16",
-  "summary": "SEB pays USD 33m to NYDFS over Baltic TM backlogs and correspondent due diligence; a Russian living in Sweden extradited to the US over dual-use chip exports via Hong Kong; Estonia charges a Belarusian over a EUR 861k cash-crypto laundering service; FinCEN red flags on Iran-linked charities.",
-  "description_html": "<p><b>1. SEB pays USD 33m to NYDFS.</b> Weak due diligence on high-risk clients and correspondent banks; TM at the Estonian, Latvian and Lithuanian subsidiaries could not reliably detect suspicious activity, and alert backlogs delayed review (2015-19). <a href='https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20261015'>DFS press release</a></p><p><b>2. Russian living in Sweden extradited to the US.</b> Alleged dual-use microelectronics exports to Russia via Hong Kong front companies. <a href='https://www.justice.gov/usao-ndny/pr/russian-national-arrested-and-extradited-new-york-charges-evading-sanctions-russia'>US DOJ</a></p><p><b>3. Estonia: cash-crypto laundering service.</b> EUR 861k in three months; banknote serial numbers used as identity tokens. <a href='https://www.err.ee/1610164954/prokuratuur-saatis-rahapesuteenuse-osutamises-suudistatava-mehe-kohtu-alla'>ERR</a></p><p><b>4. FinCEN red flags on Iran-linked charities.</b> Fast pass-through donations, onward wires, cash-outs. <a href='https://www.amlintelligence.com/2026/10/latest-fincen-releases-red-flags-to-identify-iran-backed-money-flows-through-religious-charities/'>AML Intelligence</a></p><p><i>AI-generated audio summary of public sources.</i></p>",
-  "file": "aml-brief-2026-10-16-f.mp3",
-  "bytes": 3388940,
-  "duration": 282
- },
- {
   "title": "Deep dive (EN, local voices test): Money laundering on an industrial scale – the Swedish Financial Police report",
   "date": "2026-10-16",
   "summary": "Local-voice test version (Voxtral on the Mac Mini) of the English deep dive. A deep dive into Finanspolisen's October 2026 report: SEK 2.9 billion in suspicious transactions, shell companies and fake invoices, exploited identities and BankID misuse, flows to Lithuania (Paysera, Revolut), why banks' countermeasures fall short, and red flags for transaction monitoring.",
@@ -37,5 +28,14 @@
   "file": "aml-deep-dive-2026-10-16-finanspolisen-lv-v2.mp3",
   "bytes": 17032940,
   "duration": 1419
+ },
+ {
+  "title": "16 Oct 2026 (EN): SEB's $33m NYDFS fine, chips to Russia via Hong Kong, Estonia's cash-crypto service",
+  "date": "2026-10-16",
+  "summary": "SEB pays USD 33m to NYDFS over Baltic TM backlogs and correspondent due diligence; a Russian living in Sweden extradited to the US over dual-use chip exports via Hong Kong; Estonia charges a Belarusian over a EUR 861k cash-crypto laundering service; FinCEN red flags on Iran-linked charities.",
+  "description_html": "<p><b>1. SEB pays USD 33m to NYDFS.</b> Weak due diligence on high-risk clients and correspondent banks; TM at the Estonian, Latvian and Lithuanian subsidiaries could not reliably detect suspicious activity, and alert backlogs delayed review (2015-19). <a href='https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20261015'>DFS press release</a></p><p><b>2. Russian living in Sweden extradited to the US.</b> Alleged dual-use microelectronics exports to Russia via Hong Kong front companies. <a href='https://www.justice.gov/usao-ndny/pr/russian-national-arrested-and-extradited-new-york-charges-evading-sanctions-russia'>US DOJ</a></p><p><b>3. Estonia: cash-crypto laundering service.</b> EUR 861k in three months; banknote serial numbers used as identity tokens. <a href='https://www.err.ee/1610164954/prokuratuur-saatis-rahapesuteenuse-osutamises-suudistatava-mehe-kohtu-alla'>ERR</a></p><p><b>4. FinCEN red flags on Iran-linked charities.</b> Fast pass-through donations, onward wires, cash-outs. <a href='https://www.amlintelligence.com/2026/10/latest-fincen-releases-red-flags-to-identify-iran-backed-money-flows-through-religious-charities/'>AML Intelligence</a></p><p><i>AI-generated audio summary of public sources.</i></p>",
+  "file": "aml-brief-2026-10-16-en.mp3",
+  "bytes": 2806892,
+  "duration": 233
  }
 ]
