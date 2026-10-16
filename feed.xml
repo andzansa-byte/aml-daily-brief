@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>AML Daily Brief</title>
+  <link>https://andzansa-byte.github.io/aml-daily-brief/</link>
+  <language>en</language>
+  <description>Daily anti-money laundering news for transaction monitoring specialists, with a focus on Sweden and the Baltics: enforcement cases, typologies, red flags and what they mean for monitoring. Plus occasional deep-dive episodes on full reports. AI-generated from public sources; check the linked originals.</description>
+  <itunes:author>Ainars (made with Claude)</itunes:author>
+  <itunes:summary>Daily anti-money laundering news for transaction monitoring specialists, with a focus on Sweden and the Baltics: enforcement cases, typologies, red flags and what they mean for monitoring. Plus occasional deep-dive episodes on full reports. AI-generated from public sources; check the linked originals.</itunes:summary>
+  <itunes:image href="https://andzansa-byte.github.io/aml-daily-brief/cover.jpg"/>
+  <itunes:category text="News"><itunes:category text="Business News"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:block>Yes</itunes:block>
+  <item>
+    <title>16 Oct 2026: SEB&#x27;s $33m NYDFS fine, chips to Russia via Hong Kong, Estonia&#x27;s cash-crypto service</title>
+    <description><![CDATA[<p><b>1. SEB pays USD 33m to NYDFS.</b> Weak due diligence on high-risk clients and correspondent banks; TM at the Estonian, Latvian and Lithuanian subsidiaries could not reliably detect suspicious activity, and alert backlogs delayed review (2015-19). <a href='https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20261015'>DFS press release</a></p><p><b>2. Russian living in Sweden extradited to the US.</b> Alleged dual-use microelectronics exports to Russia via Hong Kong front companies. <a href='https://www.justice.gov/usao-ndny/pr/russian-national-arrested-and-extradited-new-york-charges-evading-sanctions-russia'>US DOJ</a></p><p><b>3. Estonia: cash-crypto laundering service.</b> EUR 861k in three months; banknote serial numbers used as identity tokens. <a href='https://www.err.ee/1610164954/prokuratuur-saatis-rahapesuteenuse-osutamises-suudistatava-mehe-kohtu-alla'>ERR</a></p><p><b>4. FinCEN red flags on Iran-linked charities.</b> Fast pass-through donations, onward wires, cash-outs. <a href='https://www.amlintelligence.com/2026/10/latest-fincen-releases-red-flags-to-identify-iran-backed-money-flows-through-religious-charities/'>AML Intelligence</a></p><p><i>AI-generated audio summary of public sources.</i></p>]]></description>
+    <itunes:summary>SEB pays USD 33m to NYDFS over Baltic TM backlogs and correspondent due diligence; a Russian living in Sweden extradited to the US over dual-use chip exports via Hong Kong; Estonia charges a Belarusian over a EUR 861k cash-crypto laundering service; FinCEN red flags on Iran-linked charities.</itunes:summary>
+    <enclosure url="https://andzansa-byte.github.io/aml-daily-brief/episodes/aml-brief-2026-10-16.mp3" length="2968748" type="audio/mpeg"/>
+    <guid isPermaLink="false">aml-brief-2026-10-16.mp3</guid>
+    <pubDate>Fri, 16 Oct 2026 06:00:00 +0000</pubDate>
+    <itunes:duration>00:04:07</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
