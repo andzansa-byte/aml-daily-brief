@@ -37,5 +37,14 @@
   "file": "aml-brief-2026-10-16-en.mp3",
   "bytes": 2806892,
   "duration": 233
+ },
+ {
+  "title": "16. okt. 2026 (LV): SEB 33 milj. USD sods, mikroshēmas uz Krieviju caur Honkongu, Igaunijas skaidrās naudas-kripto serviss",
+  "date": "2026-10-16",
+  "summary": "AML dienas apskats latviešu valodā: NYDFS sods SEB par alertu uzkrājumiem Baltijas meitasbankās; Zviedrijā dzīvojoša Krievijas pilsoņa izdošana ASV; Igaunijā apsūdzēts skaidrās naudas un kripto atmazgāšanas serviss; FinCEN sarkanie karogi par labdarības organizācijām.",
+  "description_html": "<p><b>1. SEB pays USD 33m to NYDFS.</b> Weak due diligence on high-risk clients and correspondent banks; TM at the Estonian, Latvian and Lithuanian subsidiaries could not reliably detect suspicious activity, and alert backlogs delayed review (2015-19). <a href='https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20261015'>DFS press release</a></p><p><b>2. Russian living in Sweden extradited to the US.</b> Alleged dual-use microelectronics exports to Russia via Hong Kong front companies. <a href='https://www.justice.gov/usao-ndny/pr/russian-national-arrested-and-extradited-new-york-charges-evading-sanctions-russia'>US DOJ</a></p><p><b>3. Estonia: cash-crypto laundering service.</b> EUR 861k in three months; banknote serial numbers used as identity tokens. <a href='https://www.err.ee/1610164954/prokuratuur-saatis-rahapesuteenuse-osutamises-suudistatava-mehe-kohtu-alla'>ERR</a></p><p><b>4. FinCEN red flags on Iran-linked charities.</b> Fast pass-through donations, onward wires, cash-outs. <a href='https://www.amlintelligence.com/2026/10/latest-fincen-releases-red-flags-to-identify-iran-backed-money-flows-through-religious-charities/'>AML Intelligence</a></p><p><i>AI veidots audio kopsavilkums latviešu valodā (tulkojums: Gemini, pārbaudīts) no publiskiem avotiem.</i></p>",
+  "file": "aml-brief-2026-10-16-lv.mp3",
+  "bytes": 3401612,
+  "duration": 283
  }
 ]
