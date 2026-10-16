@@ -1,15 +1,5 @@
 [
  {
-  "title": "Deep dive (EN, local voices test): Money laundering on an industrial scale – the Swedish Financial Police report",
-  "date": "2026-10-16",
-  "summary": "Local-voice test version (Voxtral on the Mac Mini) of the English deep dive. A deep dive into Finanspolisen's October 2026 report: SEK 2.9 billion in suspicious transactions, shell companies and fake invoices, exploited identities and BankID misuse, flows to Lithuania (Paysera, Revolut), why banks' countermeasures fall short, and red flags for transaction monitoring.",
-  "description_html": "<p><b>Deep dive.</b> The Swedish Financial Police (Finanspolisen) report <i>Penningtvätt i industriell skala</i> (October 2026) on systematic money laundering by Russian-speaking organised crime in Sweden.</p><p><b>Key numbers</b><br>• SEK 2.9 billion in suspicious transactions, 3,000+ people and companies<br>• ~1,700 people analysed: one in five an exploited identity; Latvia among the most common linked countries<br>• 75% of flows domestic; abroad mainly Lithuania (Paysera, Revolut), Poland, Ireland, UK<br>• ~SEK 200 million via vehicle deals<br>• Operation results: 1,000+ accounts closed, ~200 customers rejected, SEK 50+ million frozen</p><p><b>In this episode</b>: how the scheme works (customer company → shell companies → money back), people and strawmen, cash, cars, cross-border flows, administrative enablers, links to other crime, banks' weaknesses and the report's recommendations, red flags for alert reviews.</p><p><b>Original report (Swedish, PDF):</b> <a href='https://polisen.se/b61e1611663908094f45e48dba35fb32/siteassets/dokument/finanspolisen/fipo-informerar/finanspolisen-informerar-den-ryska-organiserade-brottslighetens-systematiska-penningtvatt-fortgar.pdf'>Finanspolisen informerar – Penningtvätt i industriell skala</a></p><p><i>AI-generated audio summary (script: Gemini, checked against the original; voices: Voxtral, generated locally on the Mac Mini – test version). Verify facts in the original.</i></p>",
-  "image": "deepdive-finanspolisen-en.jpg",
-  "file": "aml-deep-dive-2026-10-16-finanspolisen-en-local.mp3",
-  "bytes": 17614700,
-  "duration": 1467
- },
- {
   "title": "Deep dive (EN): Money laundering on an industrial scale – the Swedish Financial Police report",
   "date": "2026-10-16",
   "summary": "A deep dive into Finanspolisen's October 2026 report: SEK 2.9 billion in suspicious transactions, shell companies and fake invoices, exploited identities and BankID misuse, flows to Lithuania (Paysera, Revolut), why banks' countermeasures fall short, and red flags for transaction monitoring.",
