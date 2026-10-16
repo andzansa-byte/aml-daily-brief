@@ -12,25 +12,13 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>Yes</itunes:block>
   <item>
-    <title>Padziļināti (LV): Naudas atmazgāšana rūpnieciskā apmērā – Zviedrijas Finanšu policijas ziņojums</title>
-    <description><![CDATA[<p><b>Padziļināti, latviešu valodā.</b> Zviedrijas Finanšu policijas (Finanspolisen) ziņojums <i>Penningtvätt i industriell skala</i> (2026. gada oktobris) par krievvalodīgās organizētās noziedzības sistemātisko naudas atmazgāšanu Zviedrijā.</p><p><b>Galvenie skaitļi</b><br>• 2,9 miljardi kronu aizdomīgu darījumu, vairāk nekā 3000 personu un uzņēmumu<br>• ~1700 personu: katrs piektais – izmantota identitāte; Latvija starp biežākajām saistītajām valstīm<br>• 75% plūsmu Zviedrijā; ārzemēs galvenokārt Lietuva (Paysera, Revolut), Polija, Īrija, Lielbritānija<br>• ~200 miljoni kronu caur auto darījumiem<br>• Operācija: 1000+ slēgti konti, ~200 atteikti klienti, 50+ miljoni kronu iesaldēti</p><p><b>Epizodē</b>: shēmas uzbūve (klientuzņēmums → čaulas uzņēmumi → nauda atpakaļ), cilvēki un salmu vīri, skaidrā nauda, auto, starptautiskās plūsmas, administratīvie palīgi, saiknes ar citu noziedzību, banku vājās vietas un ieteikumi, sarkanie karogi alertu izskatīšanai.</p><p><b>Oriģinālais ziņojums (zviedru val., PDF):</b> <a href='https://polisen.se/b61e1611663908094f45e48dba35fb32/siteassets/dokument/finanspolisen/fipo-informerar/finanspolisen-informerar-den-ryska-organiserade-brottslighetens-systematiska-penningtvatt-fortgar.pdf'>Finanspolisen informerar – Penningtvätt i industriell skala</a></p><p><i>Mākslīgā intelekta veidots audio kopsavilkums (teksts: Gemini, pārbaudīts pret oriģinālu; balsis: Gemini). Faktus pārbaudiet oriģinālā.</i></p>]]></description>
-    <itunes:summary>Padziļināts apskats latviešu valodā par Zviedrijas Finanšu policijas 2026. gada oktobra ziņojumu: 2,9 miljardi kronu aizdomīgu darījumu, čaulas uzņēmumi un fiktīvi rēķini, salmu vīri, plūsmas uz Lietuvu (Paysera, Revolut), kāpēc banku pasākumi nav pietiekami un sarkanie karogi darījumu uzraudzībai.</itunes:summary>
-    <enclosure url="https://andzansa-byte.github.io/aml-daily-brief/episodes/aml-deep-dive-2026-10-16-finanspolisen-lv.mp3" length="17741420" type="audio/mpeg"/>
-    <guid isPermaLink="false">aml-deep-dive-2026-10-16-finanspolisen-lv.mp3</guid>
-    <pubDate>Fri, 16 Oct 2026 06:00:00 +0000</pubDate>
-    <itunes:duration>00:24:38</itunes:duration>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:image href="https://andzansa-byte.github.io/aml-daily-brief/images/deepdive-finanspolisen-lv.jpg"/>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
     <title>Deep dive (EN): Money laundering on an industrial scale – the Swedish Financial Police report</title>
     <description><![CDATA[<p><b>Deep dive.</b> The Swedish Financial Police (Finanspolisen) report <i>Penningtvätt i industriell skala</i> (October 2026) on systematic money laundering by Russian-speaking organised crime in Sweden.</p><p><b>Key numbers</b><br>• SEK 2.9 billion in suspicious transactions, 3,000+ people and companies<br>• ~1,700 people analysed: one in five an exploited identity; Latvia among the most common linked countries<br>• 75% of flows domestic; abroad mainly Lithuania (Paysera, Revolut), Poland, Ireland, UK<br>• ~SEK 200 million via vehicle deals<br>• Operation results: 1,000+ accounts closed, ~200 customers rejected, SEK 50+ million frozen</p><p><b>In this episode</b>: how the scheme works (customer company → shell companies → money back), people and strawmen, cash, cars, cross-border flows, administrative enablers, links to other crime, banks' weaknesses and the report's recommendations, red flags for alert reviews.</p><p><b>Original report (Swedish, PDF):</b> <a href='https://polisen.se/b61e1611663908094f45e48dba35fb32/siteassets/dokument/finanspolisen/fipo-informerar/finanspolisen-informerar-den-ryska-organiserade-brottslighetens-systematiska-penningtvatt-fortgar.pdf'>Finanspolisen informerar – Penningtvätt i industriell skala</a></p><p><i>AI-generated audio summary (script: Gemini, checked against the original; voices: Gemini). Verify facts in the original.</i></p>]]></description>
     <itunes:summary>A deep dive into Finanspolisen&#x27;s October 2026 report: SEK 2.9 billion in suspicious transactions, shell companies and fake invoices, exploited identities and BankID misuse, flows to Lithuania (Paysera, Revolut), why banks&#x27; countermeasures fall short, and red flags for transaction monitoring.</itunes:summary>
-    <enclosure url="https://andzansa-byte.github.io/aml-daily-brief/episodes/aml-deep-dive-2026-10-16-finanspolisen-en.mp3" length="14829164" type="audio/mpeg"/>
-    <guid isPermaLink="false">aml-deep-dive-2026-10-16-finanspolisen-en.mp3</guid>
+    <enclosure url="https://andzansa-byte.github.io/aml-daily-brief/episodes/aml-deep-dive-2026-10-16-finanspolisen-en-v2.mp3" length="14644556" type="audio/mpeg"/>
+    <guid isPermaLink="false">aml-deep-dive-2026-10-16-finanspolisen-en-v2.mp3</guid>
     <pubDate>Fri, 16 Oct 2026 06:00:00 +0000</pubDate>
-    <itunes:duration>00:20:35</itunes:duration>
+    <itunes:duration>00:20:20</itunes:duration>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://andzansa-byte.github.io/aml-daily-brief/images/deepdive-finanspolisen-en.jpg"/>
     <itunes:explicit>false</itunes:explicit>
