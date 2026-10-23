@@ -180,5 +180,14 @@
   "file": "aml-brief-2026-10-23-lv.mp3",
   "bytes": 5374988,
   "duration": 447
+ },
+ {
+  "title": "Classic schemes (EN): Laundromats",
+  "date": "2026-10-23",
+  "summary": "How shared laundering machines built from shell companies, nominee directors, fake loans, court orders and invoices moved billions out of Russia and Azerbaijan through Moldovan, Baltic and Nordic banks, and what the same pattern looks like in transaction data today.",
+  "description_html": "<p>The first episode of our classic schemes series: laundromats, shared laundering-as-a-service systems that mix many clients' money through shell companies, nominee owners and weakly controlled banks, with fake loans, court orders and invoices to justify each payment.</p><p><b>The Russian Laundromat (2010–2014):</b> fake loans between UK shells, guaranteed by Russian companies and certified by Moldovan judges, moved USD 20.8 billion via Moldindconbank and Trasta Komercbanka in Riga to 96 countries. <a href='https://www.occrp.org/en/laundromat/the-russian-laundromat-exposed/'>Source</a></p><p><b>The Azerbaijani Laundromat (2012–2014):</b> four UK-registered companies with accounts at Danske Bank Estonia moved about USD 2.9 billion, including payments to European politicians. <a href='https://www.occrp.org/en/azerbaijanilaundromat/'>Source</a></p><p><b>The Troika Laundromat (2006–2012):</b> offshore nodes at Ukio Bankas in Lithuania used fake trade invoices to move an estimated USD 4.6 billion; over EUR 200 million reached Nordea accounts. <a href='https://www.transparency.org/en/news/troika-laundromat-a-different-kind-of-financial-crisis'>Source</a></p><p><b>Today:</b> the UK National Crime Agency's Operation Destabilise exposed a Moscow and Dubai network swapping criminal cash for Tether. <a href='https://www.occrp.org/en/news/crypto-laundromat-tied-to-russian-financial-sector-and-cocaine-trade-police'>Source</a></p><p><i>AI-generated audio summary of public sources.</i></p>",
+  "file": "aml-classic-2026-10-23-laundromats-en.mp3",
+  "bytes": 13726412,
+  "duration": 1143
  }
 ]
